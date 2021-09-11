@@ -1,7 +1,7 @@
 import os
 
 #ALTERAÇÕES V1.1
-#O programa tava com um bug fudendo todo o assets! Fiz uma alteração
+#O programa tava com um bug atrapalhando todo o assets! Fiz uma alteração
 #agora para ver se ele altera apenas os arquivos terminados em php e html.
 
 #VERSÃO 2.0

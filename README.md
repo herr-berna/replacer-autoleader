@@ -9,8 +9,6 @@ If you have a hundred HTML files and you want to change a string of text inside 
 
 AutoLeader is similar to replacer, but it targets some placeholder text that is inside many website models we use at the firm.
 
-Have I mentioned I'm the only developer there? :)
-
 --
 
 Esses são dois simples scripts de Python que criei para faciltiar meu dia-a-dia. Tenho muito orgulho deles!
@@ -22,5 +20,3 @@ Replacer é uma aplicação simples que consegue mudar strings de texto dentro d
 A vantagem é que ele faz isso bem rápido, em quantos arquivos você quiser!
 
 AutoLeader é bem similar, mas usado em placeholders dentro dos vários modelos de websites que temos na firma. Torna um trabalho mecânico e chato algo bem fácil de fazer.
-
-Sou atualmente o único dev da empresa.
